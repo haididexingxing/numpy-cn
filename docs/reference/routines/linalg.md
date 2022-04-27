@@ -15,7 +15,7 @@ or specify the processor architecture.
 method | description
 ---|---
 [dot](https://numpy.org/devdocs/reference/generated/numpy.dot.html#numpy.dot)(a, b[, out]) | Dot product of two arrays.
-[linalg.multi_dot](https://numpy.org/devdocs/reference/generated/numpy.linalg.multi_dot.html#numpy.linalg.multi_dot)(arrays) | Compute the dot product of two or more arrays in a single function call, while automatically selecting the fastest evaluation order.
+[linalg.multi_dot](https://numpy.org/devdocs/reference/generated/numpy.linalg.multi_dot.html#numpy.linalg.multi_dot)(arrays) | Compute the dot product of two or more arrays in a single function call, while automatically selecting the fastest evaluation order.<br>在单个函数调用中计算两个或更多数组的点积，同时自动选择最快的求值顺序。
 [vdot](https://numpy.org/devdocs/reference/generated/numpy.vdot.html#numpy.vdot)(a, b) | Return the dot product of two vectors.
 [inner](https://numpy.org/devdocs/reference/generated/numpy.inner.html#numpy.inner)(a, b) | Inner product of two arrays.
 [outer](https://numpy.org/devdocs/reference/generated/numpy.outer.html#numpy.outer)(a, b[, out]) | Compute the outer product of two vectors.
